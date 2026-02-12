@@ -22,11 +22,11 @@ and a beautiful glassmorphism UI --- built using pure vanilla JavaScript
 ## 🚀 Quick Start
 
 1.  Clone the repository git clone
-    https://github.com/yourusername/weather-dashboard-pro.git
+    https://github.com/RathodChetan1122/Weather_Dashboard.git
 
-2.  Navigate into the project cd weather-dashboard-pro
+2.  Navigate into the project cd weather-dashboard
 
-3.  Open `weather-dashboard-enhanced.html` in your browser
+3.  Open `index.html` in your browser
 
 Or run a local server:
 
@@ -59,7 +59,7 @@ https://open-meteo.com/
 
 ## 📁 Project Structure
 
-weather-dashboard-pro/ │ ├── weather-dashboard-enhanced.html ├──
+weather-dashboard/ │ ├── index.html ├──
 README.md └── screenshots/
 
 ------------------------------------------------------------------------
@@ -74,5 +74,5 @@ README.md └── screenshots/
 
 ------------------------------------------------------------------------
 
-Made with ❤️ and JavaScript\
+Made with ❤️ and FullStackDevelopment\
 If you like this project, give it a ⭐
