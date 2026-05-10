@@ -1,4 +1,4 @@
-# ☁️ Weather Dashboard Pro                                                                      
+# ☁️ Weather Dashboard Pro                                                                            
 
 A modern weather dashboard with real-time forecasts, smooth animations,
 and a beautiful glassmorphism UI --- built using pure vanilla JavaScript                                                                    
