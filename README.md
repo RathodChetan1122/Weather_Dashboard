@@ -4,7 +4,7 @@ A modern weather dashboard with real-time forecasts, smooth animations,
 and a beautiful glassmorphism UI --- built using pure vanilla JavaScript                                                                    
 (no frameworks, no build tools).   
                                 
-
+      
 
 <img width="90" height="20" alt="image" src="https://github.com/user-attachments/assets/c20476a9-4e43-468c-b08f-f4b0aed1e9a1" /><br>
 <img width="82" height="20" alt="image" src="https://github.com/user-attachments/assets/9cbfbc7d-a156-41d2-99e6-9919108c8478" /><br>
